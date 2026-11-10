@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patagonia-sana.netlify.app/sitemap.xml
